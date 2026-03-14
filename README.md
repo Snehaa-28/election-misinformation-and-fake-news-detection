@@ -100,7 +100,7 @@ Status            : Achieved by all 4 models
 
 Best Model        : Random Forest
 Best Accuracy     : 99.89%
-Best F1 Score     : 100%
+Best F1 Score     : 99.92%
 
 ---
 
