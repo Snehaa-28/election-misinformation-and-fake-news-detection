@@ -90,10 +90,10 @@ Both files are merged and labeled before training.
 ## Results
 | Model               | Accuracy  | Precision | Recall | F1 Score | Rank |
 |---------------------|-----------|-----------|--------|----------|------|
-| Random Forest       | 99.89%    | 100%      | 100%   | 100%     | 1    |
-| Gradient Boosting   | 99.77%    | 100%      | 100%   | 100%     | 2    |
-| Logistic Regression | 99.56%    | 100%      | 99%    | 99%      | 3    |
-| Naive Bayes         | 97.35%    | 97%       | 96%    | 97%      | 4    |
+| Random Forest       | 99.89%    | 99.95%    | 99.88% | 99.92%   | 1    |
+| Gradient Boosting   | 99.77%    | 99.88%    | 99.76% | 99.82%   | 2    |
+| Logistic Regression | 99.56%    | 99.51%    | 99.81% | 99.66%   | 3    |
+| Naive Bayes         | 97.35%    | 97.95%    | 97.93% | 97.94%   | 4    |
 
 Success Threshold : 85% F1 Score
 Status            : Achieved by all 4 models
